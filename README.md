@@ -1,5 +1,5 @@
 # Disaster_Tweets
-Project using a Kaggle Competition dataset for Natural Lanugaue Processing (NLP) for predicting which tweets are disaster-related (https://www.kaggle.com/competitions/nlp-getting-started/overview). Multiple NLP models are used and compared to each other in terms of their classification performance. This dataset is a binary classification task.
+Project using a Kaggle Competition dataset for Natural Lanuguage Processing (NLP) for predicting which tweets are disaster-related (https://www.kaggle.com/competitions/nlp-getting-started/overview). Multiple NLP models are used and compared to each other in terms of their classification performance. This dataset is a binary classification task.
 
 # This project uses:
 * TensorFlow 2.X to create, train and evaluate the performance of multiple NLP models [LSTM, GRU-cells, Bi-directional RNN, Conv1D, Transfer Learning, Ensemble model]
